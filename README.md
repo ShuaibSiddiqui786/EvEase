@@ -1,6 +1,6 @@
 # EvEase  
 
-EvEase is a role-based event management software designed to streamline the event approval process at ABES Engineering College. It replaces the traditional paper-based approval system with a digital platform that ensures faster approvals, better accountability, and enhanced transparency.  
+EvEase is a role-based event management software designed to streamline the event approval process. It replaces the traditional paper-based approval system with a digital platform that ensures faster approvals, better accountability, and enhanced transparency.  
 
 ## Features  
 
