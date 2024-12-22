@@ -15,12 +15,6 @@ EvEase is a role-based event management software designed to streamline the even
 - **User-Friendly Interface:** Simplified dashboards for all roles.  
 - **Faster Approvals:** Reduced average processing time from 7-10 days to less than 48 hours.  
 
-## Technologies Used  
-
-- **Frontend:** React.js  
-- **Backend:** Node.js with Express  
-- **Database:** MySQL  
-- **Other Tools:** Notification libraries, role-based access control (RBAC) systems
 
 ## Contributing
 
