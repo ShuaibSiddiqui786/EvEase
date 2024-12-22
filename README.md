@@ -45,7 +45,7 @@ I welcome contributions to enhance this project. Please follow these steps to co
 
 ## License
 
-This project is licensed under the Apache 2.0 license. See the [LICENSE](https://github.com/shuaibsiddiqui786/EvEase/blob/main/LICENSE 
+This project is licensed under the Apache 2.0 license. See the [LICENSE](https://github.com/shuaibsiddiqui786/EvEase/blob/main/LICENSE)
 
 
 ## Installation
